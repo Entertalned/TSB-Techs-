@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/9d95f08a-4d7f-496b-8c8a-47eb2dfab978
 
 
 
-<h1 align="center">Kayko/Kitty dash(There is no visual difference between the 2</h1>
+<h1 align="center">Kayko/Kitty dash(There is no visual difference between the 2)</h1>
 
 https://github.com/user-attachments/assets/110c4b27-88fb-46a1-b16f-011626949a87
 
