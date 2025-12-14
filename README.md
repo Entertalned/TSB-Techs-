@@ -2,6 +2,10 @@
 <p>A github for techs because I got bored, this includes loop dashes you'd realistically do in an actual 1v1.</p>
 
 
+<h2 align="center">Techs not included:</h2>
+<li>Dripz Dash (I have no idea how anyone would do this consistantly)</li>
+
+
 <h1 align="center">Oreo Loop Dash</h1>
 
 https://github.com/user-attachments/assets/44307d9b-03bb-4c6a-ab23-22bca215fbc3
@@ -34,6 +38,9 @@ https://github.com/user-attachments/assets/95cbab3e-0125-4f2e-a753-d9b69b4d93f2
 <h1 align="center">Supa Dash</h1>
 
 https://github.com/user-attachments/assets/0ab2fc1c-0655-4ddf-8419-06b859a996f2
+
+
+
 
 
 
